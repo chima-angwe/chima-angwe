@@ -1,3 +1,25 @@
+Profile Studio
+README.md builder
+
+Theme
+
+
+Your README is ready
+Grab the markdown, or start a fresh profile. Publishing it takes about 30 seconds.
+
+Download README.md
+Copy markdown
+Share
+Publish it to your profile
+Create a new public repo named exactly chima-angwe (same as your username).
+Add the README.md file you just downloaded.
+Visit github.com/chima-angwe — it shows on your profile.
+Keep editing
+Create another profile
+Preview
+Markdown
+Copy
+Download
 <p align="center">
   <a href="https://github.com/chima-angwe">
     <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=e5484d&fontSize=54&height=90&width=602&text=Hello!%20I'm%20Chima" alt="Hello! I&#39;m Chima" />
