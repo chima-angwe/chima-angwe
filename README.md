@@ -15,7 +15,7 @@ Founder and full-stack engineer. I shipped a full startup once before validating
 🔭 &nbsp;I'm currently working on **TrueHire**  
 🌱 &nbsp;I'm currently learning **AI model intergration**  
 👯 &nbsp;I'm looking to collaborate on **sass projects**  
-💬 &nbsp;Ask me about **React, Node, Mongodb**  
+💬 &nbsp;Ask me about **Typescript, React, Node, Mongodb**  
 ⚡ &nbsp;Fun fact: **I play chess**
 
 ### 🛠️ Tech Stack
@@ -30,6 +30,7 @@ Founder and full-stack engineer. I shipped a full startup once before validating
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
